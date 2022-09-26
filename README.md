@@ -1,3 +1,3 @@
 # giardinomiranda
 Il giardino biodiverso del Liceo Miranda è un progetto creato da Matteo Arnese come elaborato PCTO per l'Esame di Stato A.S 2020/2021, è open source ed è stato creato con ReactJS e npm.
-Il sito è dispomibile al seguente indirizzo: https://giardinomiranda.altervista.org/
+Il sito è disponibile al seguente indirizzo: https://giardinomiranda.altervista.org/
